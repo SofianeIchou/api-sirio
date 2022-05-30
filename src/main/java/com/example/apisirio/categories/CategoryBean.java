@@ -1,4 +1,4 @@
-package com.example.apimaroma.categories;
+package com.example.apisirio.categories;
 
 public class CategoryBean {
 

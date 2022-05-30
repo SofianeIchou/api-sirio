@@ -1,6 +1,6 @@
-package com.example.apimaroma.categories;
+package com.example.apisirio.categories;
 
-import com.example.apimaroma.products.ProductBean;
+import com.example.apisirio.products.ProductBean;
 import com.google.api.core.ApiFuture;
 import com.google.cloud.firestore.*;
 import com.google.firebase.cloud.FirestoreClient;

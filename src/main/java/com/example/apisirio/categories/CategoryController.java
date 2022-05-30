@@ -1,4 +1,4 @@
-package com.example.apimaroma.categories;
+package com.example.apisirio.categories;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

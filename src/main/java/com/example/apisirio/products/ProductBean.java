@@ -1,7 +1,7 @@
-package com.example.apimaroma.products;
+package com.example.apisirio.products;
 
-import com.example.apimaroma.categories.CategoryBean;
-import com.example.apimaroma.categories.CategoryService;
+import com.example.apisirio.categories.CategoryBean;
+import com.example.apisirio.categories.CategoryService;
 import com.google.cloud.firestore.DocumentReference;
 import com.google.cloud.firestore.DocumentSnapshot;
 

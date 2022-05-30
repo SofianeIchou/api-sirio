@@ -1,4 +1,4 @@
-package com.example.apimaroma.user;
+package com.example.apisirio.user;
 
 import com.google.firebase.auth.FirebaseAuthException;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.example.apimaroma.products;
+package com.example.apisirio.products;
 
 import com.google.cloud.Timestamp;
 import org.springframework.beans.factory.annotation.Autowired;

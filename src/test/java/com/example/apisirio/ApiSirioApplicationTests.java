@@ -1,10 +1,10 @@
-package com.example.apimaroma;
+package com.example.apisirio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiMaromaApplicationTests {
+class ApiSirioApplicationTests {
 
     @Test
     void contextLoads() {

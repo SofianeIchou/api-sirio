@@ -1,4 +1,4 @@
-package com.example.apimaroma.address;
+package com.example.apisirio.address;
 
 public class AddressBean {
     private String id = "";

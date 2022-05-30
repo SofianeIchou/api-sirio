@@ -1,6 +1,6 @@
-package com.example.apimaroma.user;
+package com.example.apisirio.user;
 
-import com.example.apimaroma.address.AddressBean;
+import com.example.apisirio.address.AddressBean;
 import com.google.cloud.firestore.annotation.Exclude;
 
 import java.util.ArrayList;
